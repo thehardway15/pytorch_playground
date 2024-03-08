@@ -1,0 +1,5 @@
+.idea
+PyTorch/data
+.DS_Store
+*/.ipynb_checkpoints
+*.pt
