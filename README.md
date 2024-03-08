@@ -11,12 +11,14 @@ Python 3.10
 
 ### Łatwe
 
-#### Zadanie 1 i 2
+Zapoznanie się z pytorch i przetwarzaniem danych
+
 ```
 PyTorch/pytorch-easy.ipynb
 ```
 
-#### Zadanie 3, 4, 5 i 6
+#### Klasyfikacja cyfr 
+
 ```
 PyTorch/pytorch-easy-simple-nn.ipynb
 ```
